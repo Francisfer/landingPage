@@ -1,1 +1,1 @@
-# landingPage
+# Landing page for skills and projects
