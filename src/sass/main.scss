@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+
+  max-width: 1000px;
+  background-image: linear-gradient(to right blue);
+  background-blend-mode: darken;
+  backdrop-filter: invert(20px);
+  transition: all 0.2s;
+}
