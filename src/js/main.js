@@ -11,3 +11,9 @@ async function fetchData(url) {
     throw error; // Re-throw the error to be caught by the caller
   }
 }
+
+const abr = 2;
+console.log(`Hello, the number that i have create is ${abr}`);
+
+console.log("why the fuck does this works now");
+console.log("why the fuck does this works now");
